@@ -1,0 +1,29 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Editor / IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+
+# Large / local-only media
+*.mov
+*.mp4
+*.mkv
+*.zip
+
+# Obsidian / local sync junk
+.obsidian/
+.trash/
